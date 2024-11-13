@@ -1,0 +1,18 @@
+opcode - operation selection
+
+0000 - addition
+0001 - substraction
+0010 - multiplication
+0011 - division
+0100 - arithmetic and
+0101 - arithmetic or
+0110 - arithmetic xor
+0111 - complement
+1000 - leftshift output by 1
+1001 - rightshift output by 1
+1010 - rotate left output by 1
+1011 - rotate right output by 1
+1100 - greater than 
+1101 - equalilty
+
+1111 - no op
